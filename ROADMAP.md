@@ -5,6 +5,8 @@
 - collabrative editing, so everyone can use his own computer but collaborate
 - time counter that shows "your tests are already RED for 23mins"
 - "pair programming feauture" toggle actor icons to identify changing the driver and navigator role
+- provide some badges to earn for some great solutions/tests/ideas/whatever, eg. "Monster Tester Badge"
+- show badges on facebook/twitter for the user
 
 # Complexity/Analysis
 - show code complexity using TPP
